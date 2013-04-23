@@ -9,7 +9,7 @@ public class Hello {
 		System.out.println("Hello Git!");
 		System.out.println("Hello Java!");
 		System.out.println("Hello Java again!");
-		System.out.println("Hello Git!");
+		System.out.println("Hello Git agani!");
 	}
 
 }
